@@ -1,0 +1,16 @@
+Questions Practised :
+
+1 . Total Revenue per Customer
+2 . Purchase Frequency
+3 . Average Purchase Value
+4 . Find the total revenue generated from each channel.
+5 . Calculate the average conversion rate for each channel.
+6 . Identify the channel with the highest cost and the lowest cost.
+7 . Determine the total revenue generated from paid advertising where the conversion rate is above 0.05.
+8 . Calculate the total cost and revenue for each channel, sorted by revenue in descending order.
+9 . Find the channel with the highest return on investment (ROI), where ROI is defined as (revenue - cost) / cost.
+10 . Identify the top 3 channels with the highest revenue per conversion rate.
+11 . Calculate the total cost and revenue for each channel, considering only conversions where revenue is above 2000.
+12 . Find the channel with the highest total revenue and the lowest total cost, considering only conversions with a conversion rate above 0.1.
+13 . Identify the channel with the highest cost per conversion, where cost per conversion is defined as cost / conversion rate.
+14 . Identify the channel with the highest cost efficiency, where cost efficiency is defined as revenue / cost.
